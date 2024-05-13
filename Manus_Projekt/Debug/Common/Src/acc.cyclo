@@ -1,0 +1,7 @@
+../Common/Src/acc.c:24:6:CS_START	1
+../Common/Src/acc.c:28:6:CS_END	1
+../Common/Src/acc.c:32:9:Acc_CanReadWHOAMI	2
+../Common/Src/acc.c:43:9:Acc_Init	6
+../Common/Src/acc.c:78:9:Acc_HasData	1
+../Common/Src/acc.c:82:6:Acc_ReadXYZ	2
+../Common/Src/acc.c:95:6:Acc_ReadXY	2

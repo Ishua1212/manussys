@@ -1,0 +1,4 @@
+../Common/Src/points.c:14:6:pointInit	1
+../Common/Src/points.c:20:7:randPoint	1
+../Common/Src/points.c:27:10:y	1
+../Common/Src/points.c:32:10:dist	3
